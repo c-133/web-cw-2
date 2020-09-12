@@ -1,0 +1,18 @@
+.btn__dark {
+    display: inline-block;
+    background-color: #212121;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 100px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    transition: all 0.4s;
+}
+.btn__dark {
+    background-color: #212121;
+}
+.btn__dark:hover {
+    background-color: red;
+    color: #009170;
+}
